@@ -7,7 +7,7 @@ Aplicacion Web
 URL:
 
 lanivaje
-- https://saulriveraportafolio.lanivaje.com
+- https://saulrivera.lanivaje.com
 
 vercel
 - https://jsaulrivera.vercel.app
